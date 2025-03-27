@@ -1,5 +1,5 @@
 ## Python Clicker Games
-3 full python clicker Games
+3 python clicker Games
 - [Coin Clicker Game](clicker-readme.md) installation and usage instructions
 - [RPG Clicker Game](rpg-readme.md) installation and usage instructions
 - [Space Clicker Game](space-readme.md) installation and usage instructions
