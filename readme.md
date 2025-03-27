@@ -11,4 +11,4 @@
 # Space Clicker Game
 ![space screenshot](space_screenshot.png)
 
-![GNU license file](LICENSE.txt)
+[GNU license file](LICENSE.txt)
