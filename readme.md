@@ -1,4 +1,5 @@
 ## Python Clicker Games
+![3 python clicker Games](screenshot.png)
 3 python clicker Games
 - [Coin Clicker Game](clicker-readme.md) installation and usage instructions
 - [RPG Clicker Game](rpg-readme.md) installation and usage instructions
