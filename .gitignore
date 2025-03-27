@@ -1,0 +1,5 @@
+.cursor/
+zip/
+__pycache__/
+*.pyc
+*.mp3
