@@ -10,3 +10,5 @@
 ![rpg screenshot](rpg_screenshot.png)
 # Space Clicker Game
 ![space screenshot](space_screenshot.png)
+
+![GNU License](LICENSE.txt)
